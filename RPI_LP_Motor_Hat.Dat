@@ -1,0 +1,45 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RPI_LP_Motor_Hat.PrjPcb|ReportField=ProjectFullPath~C:\Users\micha\Documents\Projekty\Mini Courier\RPI_LP_Motor_Hat\RPI_LP_Motor_Hat.PrjPcb|ReportField=Title~Bill of Materials For Project [RPI_LP_Motor_Hat.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~84|ReportField=ReportTime~18:36:45|ReportField=ReportDate~23.06.2020|ReportField=ReportDateTime~23.06.2020 18:36:45|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Nowowiejska 24|ReportField=Address2~00-001|ReportField=Address3~Wraszawa|ReportField=Address4~Polska|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~Wprowadź sprawdzającego|ReportField=CompanyName~|ReportField=CurrentDate~23.06.2020|ReportField=CurrentTime~18:35:35|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\micha\Documents\Projekty\Mini Courier\RPI_LP_Motor_Hat\motor hat.SchDoc|ReportField=DocumentName~motor hat.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Wprowadź autora|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~23.06.2020|ReportField=Nazwa Arkusza~Wpisz nazwę arkusza|ReportField=Organization~Koło Naukowe Robotyków|ReportField=ProjectName~RPI_LP_Motor_Hat.PrjPcb|ReportField=Revision~Numer|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Wprowadź Tytuł|ReportField=DataSourceFileName~RPI_LP_Motor_Hat.PrjPcb|ReportField=DataSourceFullPath~C:\Users\micha\Documents\Projekty\Mini Courier\RPI_LP_Motor_Hat\RPI_LP_Motor_Hat.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|47uF 25V|Polar capacitor|C1|Con_SMD_5x5.5|Cap_Pol||1
+2|1nF|Ceramic capacitor|C2|0603_CAP|Cap||1
+3|100nF 35V|Ceramic capacitor|C3_power LED 1, C3_power LED 2|0603_CAP|Cap||2
+4|1uF 35V|Ceramic capacitor|C4_power LED 1, C4_power LED 2|0603_CAP|Cap||2
+5|100nF 6,3V|Ceramic capacitor|C5_power LED 1, C5_power LED 2, C23, C24, C25, C26, C27, C28|0603_CAP|Cap||8
+6|47uF 25V|Electrolytic capacitor|C10, C11, C12|ELECTROLYTIC 5mm|Electrolytic||3
+7|100nF 50V|Ceramic capacitor|C13|0603_CAP|Cap||1
+8|100uF 6.3V|Polar capacitor|C15|Con_SMD_6.3x5.5|Cap_Pol||1
+9|100nF 25V|Ceramic capacitor|C16, C17, C18|0603_CAP|Cap||3
+10|100pF 50V|Ceramic capacitor|C19, C20|0603_CAP|Cap||2
+11|10pF 50V|Ceramic capacitor|C21, C22|0603_CAP|Cap||2
+12|ARK2|Złącze śrubowe 2 piny|CON1, CON2, CON3|ARK2|ARK2||3
+13|part_number|schottky|D1_power LED 1, D1_power LED 2, D2_power LED 1, D2_power LED 2|DO-219AB (SMF)|Schottky||4
+14|D Schottky|Schottky Diode|D3|SMB|D Schottky||1
+15|10k|Resistior|DNP1, R1, R3, R5_power LED 1, R5_power LED 2, R18|0603|RES||6
+16|14uH||L1_power LED 1, L1_power LED 2|PA4341.223ANLT|Inductor||2
+17|22uH||L2|PA4341.223ANLT|Inductor||1
+18|Koralik Ferrytowy|Resistior|L3|0603|RES||1
+19|RED|Light-emitting diode|LED1|0603_led_green|LED||1
+20|RED|Light-emitting diode|LED2|0603_led_red|LED||1
+21|RED|Light-emitting diode|LED3|0603_led_blue|LED||1
+22|HDR1X2|Header, 2-Pin|P1_power LED 1, P1_power LED 2|HDR1X2|HDR1X2||2
+23|HDR1X4|Header, 4-Pin|P4, P8, P9|HDR1X4|HDR1X4||3
+24|HDR1X3|Header, 3-Pin|P6, P7|HDR1X3|HDR1X3||2
+25|2N7002||Q1_power LED 1, Q1_power LED 2|Sot23|2N7002||2
+26|47k|Resistior|R2|0603|RES||1
+27|65k|Resistior|R4_power LED 1, R4_power LED 2|0603|RES||2
+28|0,56R|Resistior|R6_power LED 1, R6_power LED 2|1206|RES||2
+29|62k|Resistior|R13|0603|RES||1
+30|20k|Resistior|R14, R15|0603|RES||2
+31|1k|Resistior|R16, R17, R20, R21|0603|RES||4
+32|1M|Resistior|R19|0603|RES||1
+33|1k|Default resistor|R22, R23, R24|RES_0603|Resistor||3
+34|HDRx20||RPI1|HDR2x20|HDRx20||1
+35|Micro_Switch|Switch|SW1|Tact 34N-F|Micro_Switch||1
+36|HDR1X5|Header, 5-Pin|SWD1|Molex SPOX Horizontal 5 Circuits|HDR1X5||1
+37|AOD403|AEC Generic p-mosfet|T1|DPAK TO-252|p-mosfet||1
+38|ACS711|Current sensor. 12.5A or 25A at 3.3V|U1|SO-8_N|ACS711||1
+39|LM3404MA|1.0A Constant Current Buck Regulator for High Power LED Drivers, 8-pin Narrow SOIC|U2_power LED 1, U2_power LED 2|M08A_N|LM3404MA|LM3404MA|2
+40|LM1117MP-3V3|800mA Low-Dropout Linear Regulator|U4|SOT223|LM1117MP-3V3|LM1117MP-3.3|1
+41|LM3485||U5|VSSOP8|LM3485||1
+42|STM32F103RBT6|STM32 ARM-based 32-bit|U6|LQFP64_L|STM32F103RBT6||1
+43|TB6612FNG|Driver IC for Dual DC motor|U7|SSOP24-P-300|TB6612FNG||1
+44|8MHz|Oscillator|X1|HC49-4H_THT|XTAL||1
