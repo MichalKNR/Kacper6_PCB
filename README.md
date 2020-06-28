@@ -10,3 +10,5 @@ A STM32 based motor driver hat for Raspberry Pi4 with capability to power RPI4 a
 * Two encoders inputs for precise speed control
 * Two programmable PWM outputs
 ** Those outputs can works either as servos output or WS2812 outputs.
+
+![render 3D](https://github.com/MichalKNR/Kacper6_PCB/blob/master/3D.png)
